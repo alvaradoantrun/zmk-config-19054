@@ -1,0 +1,3 @@
+# Minimal Kconfig so Zephyr recognizes this module
+menu "User config (zmk-config-mysplit)"
+endmenu

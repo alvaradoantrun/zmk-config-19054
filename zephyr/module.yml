@@ -1,0 +1,4 @@
+name: zmk-config-mysplit
+build:
+  cmake: .
+  kconfig: Kconfig
